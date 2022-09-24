@@ -17,5 +17,3 @@ var line = tealine.slice(3);
 console.log(tealine);
 console.log(line);
 
-var color = 1;
-for 
