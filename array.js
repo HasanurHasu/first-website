@@ -16,3 +16,8 @@ var tealine = ["Hasanur", "Shahinur", "Khademul", "Lutfor,", "Foysal", "Eyakub",
 var line = tealine.slice(3);
 console.log(tealine);
 console.log(line);
+var names = ["Hasanur", "Shahinur", "Khademul", "Lutfor", "Foysal", "Eyakub", "Eliyas", "Dukhu"];
+for (i= 0; i < names.length; i++) {
+    var nam = names[i];
+    console.log(nam);
+}
