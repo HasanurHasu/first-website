@@ -32,4 +32,4 @@ switch (color) {
         break;
     default:
         console.log("Wrong selected.");
-}
+};
