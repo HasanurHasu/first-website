@@ -18,3 +18,4 @@ console.log(tealine);
 console.log(line);
 
 var color = 1;
+for 
